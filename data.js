@@ -36,7 +36,14 @@ const cv =
           "endDate": "Jun 2022",
           "institution": "Soy Henry",
           "startDate": "Oct 2021"
-        }
+        },
+        {
+            "degree": "Web Development",
+            "description": "Web development refers to the process of creating websites and web applications for the internet. It involves the use of programming languages such as HTML, CSS, and JavaScript to design, develop, and maintain websites. ",
+            "endDate": "Jul 2022",
+            "institution": "Udemy",
+            "startDate": "Jul 2022"
+          }
       ],
       "experience": [
         {
