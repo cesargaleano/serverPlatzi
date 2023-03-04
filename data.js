@@ -1,6 +1,5 @@
 const cv =
-{
-    "data": {
+ {
       "name": "Cesar Augusto Galeano Torres",
       "profession": "Fullstack Developer",
       "address": "Giron - Santander - Colombia.",
@@ -108,6 +107,6 @@ const cv =
         }
       ]
     }
-  }
+  
 
   module.exports = cv;
