@@ -16,7 +16,7 @@ server.use(CORS({
 server.use(express.json());
 console.log(cv);
 server.get('/data', (req,res)=>{
-        res.send(cv.data);
+        res.send(cv);
         });
 
 server.listen(PORT, ()=>console.log('Server Running on Port ', PORT));
